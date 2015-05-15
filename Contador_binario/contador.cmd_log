@@ -1,0 +1,3 @@
+xst -ise "/home/jose/Documentos/Projects_ISE_9_2/Contador_binario/Contador_binario.ise" -intstyle ise -ifn contador.xst -ofn contador.syr
+xst -ise "/home/jose/Documentos/Projects_ISE_9_2/Contador_binario/Contador_binario.ise" -intstyle ise -ifn contador.xst -ofn contador.syr
+ngdbuild -ise "/home/jose/Documentos/Projects_ISE_9_2/Contador_binario/Contador_binario.ise" -intstyle ise -dd _ngo -nt timestamp -uc "contador.ucf" -p xc3s100e-cp132-4 "contador.ngc" contador.ngd
