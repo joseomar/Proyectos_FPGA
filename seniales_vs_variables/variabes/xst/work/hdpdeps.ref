@@ -1,0 +1,9 @@
+V3 3
+FL /home/jose/Documentos/Projects_ISE_9_2/seniales_vs_variables/variabes/variable.vhd 2015/02/01.18:53:33 J.36
+EN work/variables 1422827628 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/seniales_vs_variables/variabes/variable.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/variables/Behavioral 1422827629 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/seniales_vs_variables/variabes/variable.vhd \
+      EN work/variables 1422827628

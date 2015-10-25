@@ -1,0 +1,8 @@
+V3 3
+FL /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/TP3_2014/TP3_item1.vhd 2014/05/27.18:48:19 J.36
+EN work/Ejemplo1 1423956228 \
+      FL /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/TP3_2014/TP3_item1.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/Ejemplo1/Behavioral 1423956229 \
+      FL /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/TP3_2014/TP3_item1.vhd \
+      EN work/Ejemplo1 1423956228

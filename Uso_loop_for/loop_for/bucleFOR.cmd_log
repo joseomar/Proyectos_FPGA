@@ -1,0 +1,1 @@
+xst -ise "/home/jose/Documentos/Projects_ISE_9_2/Uso_loop_for/loop_for/loop_for.ise" -intstyle ise -ifn bucleFOR.xst -ofn bucleFOR.syr

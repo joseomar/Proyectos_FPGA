@@ -1,0 +1,6 @@
+vhdl work "../../../Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/kcuart_rx.vhd"
+vhdl work "../../../Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/bbfifo_16x8.vhd"
+vhdl work "../../../Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/uart_rx.vhd"
+vhdl work "../../../Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/reloj_4800.vhd"
+vhdl work "../../../Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/Control.vhd"
+vhdl work "../../../Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/Top_ejemplo.vhd"

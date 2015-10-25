@@ -1,0 +1,1 @@
+xst -ise "/home/jose/Documentos/Projects_ISE_9_2/Maquina_/anti_rebotes_5estados/anti_rebotes_5estados.ise" -intstyle ise -ifn anti_R.xst -ofn anti_R.syr

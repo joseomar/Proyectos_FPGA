@@ -1,0 +1,12 @@
+[Inputs]
+clk
+reset
+boton
+=Switch[3:0]=
+[Outputs]
+strataflash_oe
+strataflash_ce
+strataflash_we
+=LCD_O[2:0]=
+[BiDir]
+=LCD_IO[3:0]=

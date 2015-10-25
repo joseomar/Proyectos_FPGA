@@ -1,0 +1,1 @@
+xst -ise "/home/jose/Documentos/Projects_ISE_9_2/seniales_vs_variables/variabes/variabes.ise" -intstyle ise -ifn variables.xst -ofn variables.syr

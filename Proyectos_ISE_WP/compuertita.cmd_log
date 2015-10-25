@@ -1,0 +1,1 @@
+xst -ise "/home/jose/Documentos/Projects_ISE_9_2/Proyectos_ISE_WP/Proyectos_ISE_WP.ise" -intstyle ise -ifn compuertita.xst -ofn compuertita.syr

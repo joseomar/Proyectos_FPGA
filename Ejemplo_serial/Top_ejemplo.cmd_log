@@ -1,0 +1,2 @@
+xst -ise "/home/jose/Documentos/Projects_ISE_9_2/Ejemplo_serial/Ejemplo_serial.ise" -intstyle ise -ifn Top_ejemplo.xst -ofn Top_ejemplo.syr
+ngdbuild -ise "/home/jose/Documentos/Projects_ISE_9_2/Ejemplo_serial/Ejemplo_serial.ise" -intstyle ise -dd _ngo -nt timestamp -uc "/home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/Top_ejemplo.ucf" -p xc3s100e-cp132-5 "Top_ejemplo.ngc" Top_ejemplo.ngd

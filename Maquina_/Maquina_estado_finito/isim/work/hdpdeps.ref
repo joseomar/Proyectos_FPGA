@@ -1,0 +1,9 @@
+V3 3
+FL /home/jose/Documentos/Projects_ISE_9_2/Maquina_/Maquina_estado_finito/MEF.vhd 2015/02/09.18:47:54 J.36
+EN work/MEF 1423519448 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/Maquina_/Maquina_estado_finito/MEF.vhd \
+      PB ieee/std_logic_1164 1179176234 PB ieee/std_logic_arith 1179176236 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176242
+AR work/MEF/Behavioral 1423519449 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/Maquina_/Maquina_estado_finito/MEF.vhd \
+      EN work/MEF 1423519448

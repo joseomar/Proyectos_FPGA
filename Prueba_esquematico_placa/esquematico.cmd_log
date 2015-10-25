@@ -1,0 +1,10 @@
+sch2verilog -intstyle ise -family spartan3e   -w "/home/jose/Documentos/Projects_ISE_9_2/Prueba_esquematico_placa/esquematico.sch" esquematico.vf
+xst -ise "/home/jose/Documentos/Projects_ISE_9_2/Prueba_esquematico_placa/Prueba_esquematico_placa.ise" -intstyle ise -ifn esquematico.xst -ofn esquematico.syr
+ngdbuild -ise "/home/jose/Documentos/Projects_ISE_9_2/Prueba_esquematico_placa/Prueba_esquematico_placa.ise" -intstyle ise -dd _ngo -nt timestamp -uc "esquematico.ucf" -p xc3s100e-cp132-4 "esquematico.ngc" esquematico.ngd
+ngdbuild -ise "/home/jose/Documentos/Projects_ISE_9_2/Prueba_esquematico_placa/Prueba_esquematico_placa.ise" -intstyle ise -dd _ngo -nt timestamp -uc "esquematico.ucf" -p xc3s100e-cp132-4 "esquematico.ngc" esquematico.ngd
+map -ise "/home/jose/Documentos/Projects_ISE_9_2/Prueba_esquematico_placa/Prueba_esquematico_placa.ise" -intstyle ise -p xc3s100e-cp132-4 -cm area -pr b -k 4 -c 100 -o esquematico_map.ncd esquematico.ngd esquematico.pcf
+par -ise "/home/jose/Documentos/Projects_ISE_9_2/Prueba_esquematico_placa/Prueba_esquematico_placa.ise" -w -intstyle ise -ol std -t 1 esquematico_map.ncd esquematico.ncd esquematico.pcf
+trce -ise "/home/jose/Documentos/Projects_ISE_9_2/Prueba_esquematico_placa/Prueba_esquematico_placa.ise" -intstyle ise -e 3 -s 4 -xml esquematico esquematico.ncd -o esquematico.twr esquematico.pcf -ucf esquematico.ucf
+par -ise "/home/jose/Documentos/Projects_ISE_9_2/Prueba_esquematico_placa/Prueba_esquematico_placa.ise" -w -intstyle ise -ol std -t 1 esquematico_map.ncd esquematico.ncd esquematico.pcf
+trce -ise "/home/jose/Documentos/Projects_ISE_9_2/Prueba_esquematico_placa/Prueba_esquematico_placa.ise" -intstyle ise -e 3 -s 4 -xml esquematico esquematico.ncd -o esquematico.twr esquematico.pcf -ucf esquematico.ucf
+bitgen -ise "/home/jose/Documentos/Projects_ISE_9_2/Prueba_esquematico_placa/Prueba_esquematico_placa.ise" -intstyle ise -f esquematico.ut esquematico.ncd

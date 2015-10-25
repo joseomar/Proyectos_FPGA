@@ -1,0 +1,1 @@
+xst -ise "/home/jose/Documentos/Projects_ISE_9_2/LCD_pres/LCD_pres.ise" -intstyle ise -ifn sistema_LCD.xst -ofn sistema_LCD.syr

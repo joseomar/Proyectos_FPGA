@@ -1,0 +1,9 @@
+V3 3
+FL /home/jose/Documentos/Projects_ISE_9_2/Primera_prueba/Compuerta_and/compuerta_AND.vhd 2015/01/30.12:29:34 J.36
+EN work/compuerta_AND 1422631787 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/Primera_prueba/Compuerta_and/compuerta_AND.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/compuerta_AND/Behavioral 1422631788 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/Primera_prueba/Compuerta_and/compuerta_AND.vhd \
+      EN work/compuerta_AND 1422631787

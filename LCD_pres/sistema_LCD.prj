@@ -1,0 +1,7 @@
+vhdl work "../../../Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/aplicacion.vhd"
+vhdl work "../../../Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/kcpsm3.vhd"
+vhdl work "../../../Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/top_PBlaze.vhd"
+vhdl work "../../../Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/Registro.vhd"
+vhdl work "../../../Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/AntiR.vhd"
+vhdl work "../../../Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/Adecua_Int.vhd"
+vhdl work "../../../Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/sistema_LCD.vhd"

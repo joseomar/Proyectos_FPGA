@@ -1,0 +1,32 @@
+V3 15
+FL /home/jose/Documentos/Projects_ISE_9_2/tp3_modif/Contador.vhd 2015/02/15.01:08:25 J.36
+EN work/Contador 1423974272 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/tp3_modif/Contador.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/Contador/Behavioral 1423974273 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/tp3_modif/Contador.vhd \
+      EN work/Contador 1423974272
+FL /home/jose/Documentos/Projects_ISE_9_2/tp3_modif/MEF_control.vhd 2015/02/15.01:08:25 J.36
+EN work/MEF_control 1423974268 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/tp3_modif/MEF_control.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/MEF_control/Behavioral 1423974269 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/tp3_modif/MEF_control.vhd \
+      EN work/MEF_control 1423974268
+FL /home/jose/Documentos/Projects_ISE_9_2/tp3_modif/Registro.vhd 2015/02/15.00:49:40 J.36
+EN work/Registro 1423974270 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/tp3_modif/Registro.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/Registro/Behavioral 1423974271 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/tp3_modif/Registro.vhd \
+      EN work/Registro 1423974270
+FL /home/jose/Documentos/Projects_ISE_9_2/tp3_modif/sistema.vhd 2015/02/15.01:24:15 J.36
+EN work/sistema 1423974274 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/tp3_modif/sistema.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/sistema/Behavioral 1423974275 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/tp3_modif/sistema.vhd \
+      EN work/sistema 1423974274 CP MEF_control CP registro CP contador

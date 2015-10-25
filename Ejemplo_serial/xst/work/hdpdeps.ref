@@ -1,0 +1,52 @@
+V3 37
+FL /home/jose/Documentos/Projects_ISE_9_2/Ejemplo_serial/../../../Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/bbfifo_16x8.vhd 2003/12/03.15:53:56 J.36
+EN work/bbfifo_16x8 1429816970 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/Ejemplo_serial/../../../Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/bbfifo_16x8.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583 LB unisim PH unisim/VCOMPONENTS 1177545586
+AR work/bbfifo_16x8/low_level_definition 1429816971 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/Ejemplo_serial/../../../Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/bbfifo_16x8.vhd \
+      EN work/bbfifo_16x8 1429816970 CP string CP label CP SRL16E CP FDRE CP LUT4 \
+      CP MUXCY CP XORCY CP FDR CP LUT3
+FL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/bbfifo_16x8.vhd 2003/12/03.15:53:56 J.36
+FL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/Control.vhd 2014/06/04.16:06:12 J.36
+EN work/Control 1429816944 \
+      FL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/Control.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/Control/Behavioral 1429816945 \
+      FL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/Control.vhd \
+      EN work/Control 1429816944
+FL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/kcuart_rx.vhd 2003/12/03.15:53:38 J.36
+EN work/kcuart_rx 1429816936 \
+      FL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/kcuart_rx.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583 LB unisim PH unisim/VCOMPONENTS 1177545586
+AR work/kcuart_rx/low_level_definition 1429816937 \
+      FL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/kcuart_rx.vhd \
+      EN work/kcuart_rx 1429816936 CP FD CP string CP label CP SRL16E CP FDE CP LUT4 \
+      CP LUT3 CP LUT2
+FL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/reloj_4800.vhd 2014/06/05.09:56:48 J.36
+EN work/reloj_4800 1429816940 \
+      FL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/reloj_4800.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/reloj_4800/Behavioral 1429816941 \
+      FL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/reloj_4800.vhd \
+      EN work/reloj_4800 1429816940
+FL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/Top_ejemplo.vhd 2014/06/04.16:15:06 J.36
+EN work/Top_ejemplo 1429816946 \
+      FL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/Top_ejemplo.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/Top_ejemplo/Behavioral 1429816947 \
+      FL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/Top_ejemplo.vhd \
+      EN work/Top_ejemplo 1429816946 CP reloj_4800 CP uart_rx CP Control
+FL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/uart_rx.vhd 2003/12/03.15:53:26 J.36
+EN work/uart_rx 1429816942 \
+      FL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/uart_rx.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583 LB unisim PH unisim/VCOMPONENTS 1177545586
+AR work/uart_rx/macro_level_definition 1429816943 \
+      FL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/uart_rx.vhd \
+      EN work/uart_rx 1429816942 CP kcuart_rx CP bbfifo_16x8

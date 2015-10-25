@@ -1,0 +1,9 @@
+V3 3
+FL /home/jose/Documentos/Projects_ISE_9_2/Proyectos_ISE_WP/compuertita.vhd 2015/01/31.11:23:37 J.36
+EN work/compuertita 1422714432 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/Proyectos_ISE_WP/compuertita.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/compuertita/Behavioral 1422714433 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/Proyectos_ISE_WP/compuertita.vhd \
+      EN work/compuertita 1422714432

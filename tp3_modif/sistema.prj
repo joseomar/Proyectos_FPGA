@@ -1,0 +1,4 @@
+vhdl work "Registro.vhd"
+vhdl work "MEF_control.vhd"
+vhdl work "Contador.vhd"
+vhdl work "sistema.vhd"

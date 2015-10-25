@@ -1,0 +1,1 @@
+xst -ise "/home/jose/Documentos/Projects_ISE_9_2/Registro_dezplazamiento/Registro_dezplazamiento.ise" -intstyle ise -ifn registro_desplaz.xst -ofn registro_desplaz.syr

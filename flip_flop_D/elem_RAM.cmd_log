@@ -1,0 +1,3 @@
+xst -ise "/home/jose/Documentos/Projects_ISE_9_2/flip_flop_D/flip_flop_D.ise" -intstyle ise -ifn elem_RAM.xst -ofn elem_RAM.syr
+xst -ise "/home/jose/Documentos/Projects_ISE_9_2/flip_flop_D/flip_flop_D.ise" -intstyle ise -ifn elem_RAM.xst -ofn elem_RAM.syr
+ngdbuild -ise "/home/jose/Documentos/Projects_ISE_9_2/flip_flop_D/flip_flop_D.ise" -intstyle ise -dd _ngo -nt timestamp -uc "elem_RAM.ucf" -p xc3s500e-fg320-4 "elem_RAM.ngc" elem_RAM.ngd

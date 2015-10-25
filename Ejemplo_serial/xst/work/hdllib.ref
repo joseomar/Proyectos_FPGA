@@ -1,0 +1,12 @@
+AR bbfifo_16x8 low_level_definition /home/jose/Documentos/Projects_ISE_9_2/Ejemplo_serial/../../../Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/bbfifo_16x8.vhd sub00/vhpl03 1429816971
+EN reloj_4800 NULL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/reloj_4800.vhd sub00/vhpl04 1429816940
+AR control behavioral /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/Control.vhd sub00/vhpl09 1429816945
+AR reloj_4800 behavioral /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/reloj_4800.vhd sub00/vhpl05 1429816941
+AR uart_rx macro_level_definition /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/uart_rx.vhd sub00/vhpl07 1429816943
+AR top_ejemplo behavioral /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/Top_ejemplo.vhd sub00/vhpl11 1429816947
+EN kcuart_rx NULL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/kcuart_rx.vhd sub00/vhpl00 1429816936
+EN top_ejemplo NULL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/Top_ejemplo.vhd sub00/vhpl10 1429816946
+EN control NULL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/Control.vhd sub00/vhpl08 1429816944
+EN bbfifo_16x8 NULL /home/jose/Documentos/Projects_ISE_9_2/Ejemplo_serial/../../../Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/bbfifo_16x8.vhd sub00/vhpl02 1429816970
+EN uart_rx NULL /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/uart_rx.vhd sub00/vhpl06 1429816942
+AR kcuart_rx low_level_definition /home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/kcuart_rx.vhd sub00/vhpl01 1429816937

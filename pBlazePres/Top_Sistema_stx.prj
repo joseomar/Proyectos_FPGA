@@ -1,0 +1,7 @@
+vhdl isim_temp "aplicacion.vhd"
+vhdl isim_temp "kcpsm3.vhd"
+vhdl isim_temp "top_PBlaze.vhd"
+vhdl isim_temp "Reg_led.vhd"
+vhdl isim_temp "AntiR.vhd"
+vhdl isim_temp "Adecua_Int.vhd"
+vhdl isim_temp "Top_Sistema.vhd"

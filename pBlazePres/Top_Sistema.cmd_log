@@ -1,0 +1,14 @@
+xst -ise "/home/jose/Documentos/Projects_ISE_9_2/pBlazePres/pBlazePres.ise" -intstyle ise -ifn Top_Sistema.xst -ofn Top_Sistema.syr
+ngdbuild -ise "/home/jose/Documentos/Projects_ISE_9_2/pBlazePres/pBlazePres.ise" -intstyle ise -dd _ngo -nt timestamp -uc "Top_Sistema.ucf" -p xc3s100e-cp132-4 "Top_Sistema.ngc" Top_Sistema.ngd
+ngdbuild -ise "/home/jose/Documentos/Projects_ISE_9_2/pBlazePres/pBlazePres.ise" -intstyle ise -dd _ngo -nt timestamp -uc "Top_Sistema.ucf" -p xc3s100e-cp132-4 "Top_Sistema.ngc" Top_Sistema.ngd
+map -ise "/home/jose/Documentos/Projects_ISE_9_2/pBlazePres/pBlazePres.ise" -intstyle ise -p xc3s100e-cp132-4 -cm area -pr b -k 4 -c 100 -o Top_Sistema_map.ncd Top_Sistema.ngd Top_Sistema.pcf
+ngdbuild -ise "/home/jose/Documentos/Projects_ISE_9_2/pBlazePres/pBlazePres.ise" -intstyle ise -dd _ngo -nt timestamp -uc "Top_Sistema.ucf" -p xc3s100e-cp132-4 "Top_Sistema.ngc" Top_Sistema.ngd
+map -ise "/home/jose/Documentos/Projects_ISE_9_2/pBlazePres/pBlazePres.ise" -intstyle ise -p xc3s100e-cp132-4 -cm area -pr b -k 4 -c 100 -o Top_Sistema_map.ncd Top_Sistema.ngd Top_Sistema.pcf
+par -ise "/home/jose/Documentos/Projects_ISE_9_2/pBlazePres/pBlazePres.ise" -w -intstyle ise -ol std -t 1 Top_Sistema_map.ncd Top_Sistema.ncd Top_Sistema.pcf
+trce -ise "/home/jose/Documentos/Projects_ISE_9_2/pBlazePres/pBlazePres.ise" -intstyle ise -e 3 -s 4 -xml Top_Sistema Top_Sistema.ncd -o Top_Sistema.twr Top_Sistema.pcf -ucf Top_Sistema.ucf
+bitgen -ise "/home/jose/Documentos/Projects_ISE_9_2/pBlazePres/pBlazePres.ise" -intstyle ise -f Top_Sistema.ut Top_Sistema.ncd
+ngdbuild -ise "/home/jose/Documentos/Projects_ISE_9_2/pBlazePres/pBlazePres.ise" -intstyle ise -dd _ngo -nt timestamp -uc "Top_Sistema.ucf" -p xc3s100e-cp132-4 "Top_Sistema.ngc" Top_Sistema.ngd
+map -ise "/home/jose/Documentos/Projects_ISE_9_2/pBlazePres/pBlazePres.ise" -intstyle ise -p xc3s100e-cp132-4 -cm area -pr b -k 4 -c 100 -o Top_Sistema_map.ncd Top_Sistema.ngd Top_Sistema.pcf
+par -ise "/home/jose/Documentos/Projects_ISE_9_2/pBlazePres/pBlazePres.ise" -w -intstyle ise -ol std -t 1 Top_Sistema_map.ncd Top_Sistema.ncd Top_Sistema.pcf
+trce -ise "/home/jose/Documentos/Projects_ISE_9_2/pBlazePres/pBlazePres.ise" -intstyle ise -e 3 -s 4 -xml Top_Sistema Top_Sistema.ncd -o Top_Sistema.twr Top_Sistema.pcf -ucf Top_Sistema.ucf
+bitgen -ise "/home/jose/Documentos/Projects_ISE_9_2/pBlazePres/pBlazePres.ise" -intstyle ise -f Top_Sistema.ut Top_Sistema.ncd

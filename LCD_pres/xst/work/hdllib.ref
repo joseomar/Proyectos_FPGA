@@ -1,0 +1,16 @@
+PH constants NULL /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/aplicacion.vhd sub00/vhpl02 1426735118
+AR top_pb behavioral /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/top_PBlaze.vhd sub00/vhpl13 1426735129
+AR kcpsm3 low_level_definition /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/kcpsm3.vhd sub00/vhpl01 1426735117
+PB constants constants /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/aplicacion.vhd sub00/vhpl03 1426735119
+EN kcpsm3 NULL /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/kcpsm3.vhd sub00/vhpl00 1426735116
+EN antir NULL /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/AntiR.vhd sub00/vhpl06 1426735122
+EN memoria NULL /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/aplicacion.vhd sub00/vhpl04 1426735120
+AR antir behavioral /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/AntiR.vhd sub00/vhpl07 1426735123
+AR registro behavioral /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/Registro.vhd sub00/vhpl11 1426735127
+AR sistema_lcd behavioral /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/sistema_LCD.vhd sub00/vhpl15 1426735131
+AR memoria mix /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/aplicacion.vhd sub00/vhpl05 1426735121
+EN adecua_int NULL /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/Adecua_Int.vhd sub00/vhpl08 1426735124
+AR adecua_int behavioral /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/Adecua_Int.vhd sub00/vhpl09 1426735125
+EN sistema_lcd NULL /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/sistema_LCD.vhd sub00/vhpl14 1426735130
+EN top_pb NULL /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/top_PBlaze.vhd sub00/vhpl12 1426735128
+EN registro NULL /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/EJ_LCD_Presentacion/Archivos_ISE/Registro.vhd sub00/vhpl10 1426735126

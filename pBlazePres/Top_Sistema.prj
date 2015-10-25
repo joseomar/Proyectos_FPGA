@@ -1,0 +1,7 @@
+vhdl work "aplicacion.vhd"
+vhdl work "kcpsm3.vhd"
+vhdl work "top_PBlaze.vhd"
+vhdl work "Reg_led.vhd"
+vhdl work "AntiR.vhd"
+vhdl work "Adecua_Int.vhd"
+vhdl work "Top_Sistema.vhd"

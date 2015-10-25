@@ -1,0 +1,17 @@
+xst -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3_modif/tp3_modif.ise" -intstyle ise -ifn sistema.xst -ofn sistema.syr
+ngdbuild -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3_modif/tp3_modif.ise" -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 "sistema.ngc" sistema.ngd
+map -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3_modif/tp3_modif.ise" -intstyle ise -p xc3s100e-cp132-4 -cm area -pr b -k 4 -c 100 -o sistema_map.ncd sistema.ngd sistema.pcf
+xst -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3_modif/tp3_modif.ise" -intstyle ise -ifn sistema.xst -ofn sistema.syr
+xst -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3_modif/tp3_modif.ise" -intstyle ise -ifn sistema.xst -ofn sistema.syr
+ngdbuild -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3_modif/tp3_modif.ise" -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 "sistema.ngc" sistema.ngd
+map -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3_modif/tp3_modif.ise" -intstyle ise -p xc3s100e-cp132-4 -cm area -pr b -k 4 -c 100 -o sistema_map.ncd sistema.ngd sistema.pcf
+par -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3_modif/tp3_modif.ise" -w -intstyle ise -ol std -t 1 sistema_map.ncd sistema.ncd sistema.pcf
+trce -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3_modif/tp3_modif.ise" -intstyle ise -e 3 -s 4 -xml sistema sistema.ncd -o sistema.twr sistema.pcf
+bitgen -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3_modif/tp3_modif.ise" -intstyle ise -f sistema.ut sistema.ncd
+ngdbuild -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3_modif/tp3_modif.ise" -intstyle ise -dd _ngo -nt timestamp -uc "sistema.ucf" -p xc3s100e-cp132-4 "sistema.ngc" sistema.ngd
+ngdbuild -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3_modif/tp3_modif.ise" -intstyle ise -dd _ngo -nt timestamp -uc "patas.ucf" -p xc3s100e-cp132-4 "sistema.ngc" sistema.ngd
+ngdbuild -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3_modif/tp3_modif.ise" -intstyle ise -dd _ngo -nt timestamp -uc "/home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/TP3_2014/Ejemplo1.ucf" -p xc3s100e-cp132-4 "sistema.ngc" sistema.ngd
+map -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3_modif/tp3_modif.ise" -intstyle ise -p xc3s100e-cp132-4 -cm area -pr b -k 4 -c 100 -o sistema_map.ncd sistema.ngd sistema.pcf
+par -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3_modif/tp3_modif.ise" -w -intstyle ise -ol std -t 1 sistema_map.ncd sistema.ncd sistema.pcf
+trce -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3_modif/tp3_modif.ise" -intstyle ise -e 3 -s 4 -xml sistema sistema.ncd -o sistema.twr sistema.pcf -ucf /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/TP3_2014/Ejemplo1.ucf
+bitgen -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3_modif/tp3_modif.ise" -intstyle ise -f sistema.ut sistema.ncd

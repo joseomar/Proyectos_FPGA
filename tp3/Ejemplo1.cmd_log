@@ -1,0 +1,6 @@
+xst -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3/tp3.ise" -intstyle ise -ifn Ejemplo1.xst -ofn Ejemplo1.syr
+ngdbuild -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3/tp3.ise" -intstyle ise -dd _ngo -nt timestamp -uc "/home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/TP3_2014/Ejemplo1.ucf" -p xc3s100e-cp132-4 "Ejemplo1.ngc" Ejemplo1.ngd
+map -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3/tp3.ise" -intstyle ise -p xc3s100e-cp132-4 -cm area -pr b -k 4 -c 100 -o Ejemplo1_map.ncd Ejemplo1.ngd Ejemplo1.pcf
+par -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3/tp3.ise" -w -intstyle ise -ol std -t 1 Ejemplo1_map.ncd Ejemplo1.ncd Ejemplo1.pcf
+trce -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3/tp3.ise" -intstyle ise -e 3 -s 4 -xml Ejemplo1 Ejemplo1.ncd -o Ejemplo1.twr Ejemplo1.pcf -ucf /home/jose/Dropbox/Cursos_Rosario/FPGA/Practicas/TP3_2014/Ejemplo1.ucf
+bitgen -ise "/home/jose/Documentos/Projects_ISE_9_2/tp3/tp3.ise" -intstyle ise -f Ejemplo1.ut Ejemplo1.ncd

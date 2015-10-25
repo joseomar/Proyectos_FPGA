@@ -1,0 +1,9 @@
+V3 3
+FL /home/jose/Documentos/Projects_ISE_9_2/Maquina_/anti_rebotes_5estados/anti_R.vhd 2015/02/09.20:10:46 J.36
+EN work/anti_R 1423523464 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/Maquina_/anti_rebotes_5estados/anti_R.vhd \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/anti_R/Behavioral 1423523465 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/Maquina_/anti_rebotes_5estados/anti_R.vhd \
+      EN work/anti_R 1423523464

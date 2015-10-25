@@ -1,0 +1,16 @@
+AR top_sistema behavioral /home/jose/Documentos/Projects_ISE_9_2/pBlazePres/Top_Sistema.vhd sub00/vhpl15 1426367694
+PH constants NULL /home/jose/Documentos/Projects_ISE_9_2/pBlazePres/aplicacion.vhd sub00/vhpl02 1426367681
+EN top_sistema NULL /home/jose/Documentos/Projects_ISE_9_2/pBlazePres/Top_Sistema.vhd sub00/vhpl14 1426367693
+AR reg_led behavioral /home/jose/Documentos/Projects_ISE_9_2/pBlazePres/Reg_led.vhd sub00/vhpl13 1426367692
+AR top_pb behavioral /home/jose/Documentos/Projects_ISE_9_2/pBlazePres/top_PBlaze.vhd sub00/vhpl11 1426367690
+AR kcpsm3 low_level_definition /home/jose/Documentos/Projects_ISE_9_2/pBlazePres/kcpsm3.vhd sub00/vhpl01 1426367680
+PB constants constants /home/jose/Documentos/Projects_ISE_9_2/pBlazePres/aplicacion.vhd sub00/vhpl03 1426367682
+EN kcpsm3 NULL /home/jose/Documentos/Projects_ISE_9_2/pBlazePres/kcpsm3.vhd sub00/vhpl00 1426367679
+EN antir NULL /home/jose/Documentos/Projects_ISE_9_2/pBlazePres/AntiR.vhd sub00/vhpl06 1426367685
+EN memoria NULL /home/jose/Documentos/Projects_ISE_9_2/pBlazePres/aplicacion.vhd sub00/vhpl04 1426367683
+AR antir behavioral /home/jose/Documentos/Projects_ISE_9_2/pBlazePres/AntiR.vhd sub00/vhpl07 1426367686
+EN reg_led NULL /home/jose/Documentos/Projects_ISE_9_2/pBlazePres/Reg_led.vhd sub00/vhpl12 1426367691
+AR memoria mix /home/jose/Documentos/Projects_ISE_9_2/pBlazePres/aplicacion.vhd sub00/vhpl05 1426367684
+AR adecua_int behavioral /home/jose/Documentos/Projects_ISE_9_2/pBlazePres/Adecua_Int.vhd sub00/vhpl09 1426367688
+EN adecua_int NULL /home/jose/Documentos/Projects_ISE_9_2/pBlazePres/Adecua_Int.vhd sub00/vhpl08 1426367687
+EN top_pb NULL /home/jose/Documentos/Projects_ISE_9_2/pBlazePres/top_PBlaze.vhd sub00/vhpl10 1426367689

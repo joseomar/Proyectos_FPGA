@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="2591" delta="unknown" ><arg fmt="%s" index="1">&quot;/home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/kcuart_rx.vhd&quot; line 331:</arg> <arg fmt="%s" index="2">attribute on instance</arg> &lt;<arg fmt="%s" index="3">INIT</arg>&gt; overrides <arg fmt="%s" index="4">generic/parameter on component</arg>. It is possible that simulator will not take this attribute into account.
+</msg>
+
+<msg type="warning" file="Xst" num="2591" delta="unknown" ><arg fmt="%s" index="1">&quot;/home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/kcuart_rx.vhd&quot; line 254:</arg> <arg fmt="%s" index="2">attribute on instance</arg> &lt;<arg fmt="%s" index="3">INIT</arg>&gt; overrides <arg fmt="%s" index="4">generic/parameter on component</arg>. It is possible that simulator will not take this attribute into account.
+</msg>
+
+<msg type="warning" file="Xst" num="2591" delta="unknown" ><arg fmt="%s" index="1">&quot;/home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/bbfifo_16x8.vhd&quot; line 257:</arg> <arg fmt="%s" index="2">attribute on instance</arg> &lt;<arg fmt="%s" index="3">INIT</arg>&gt; overrides <arg fmt="%s" index="4">generic/parameter on component</arg>. It is possible that simulator will not take this attribute into account.
+</msg>
+
+<msg type="warning" file="Xst" num="2591" delta="unknown" ><arg fmt="%s" index="1">&quot;/home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/kcuart_rx.vhd&quot; line 236:</arg> <arg fmt="%s" index="2">attribute on instance</arg> &lt;<arg fmt="%s" index="3">INIT</arg>&gt; overrides <arg fmt="%s" index="4">generic/parameter on component</arg>. It is possible that simulator will not take this attribute into account.
+</msg>
+
+<msg type="warning" file="Xst" num="2591" delta="unknown" ><arg fmt="%s" index="1">&quot;/home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/bbfifo_16x8.vhd&quot; line 158:</arg> <arg fmt="%s" index="2">attribute on instance</arg> &lt;<arg fmt="%s" index="3">INIT</arg>&gt; overrides <arg fmt="%s" index="4">generic/parameter on component</arg>. It is possible that simulator will not take this attribute into account.
+</msg>
+
+<msg type="warning" file="Xst" num="2591" delta="unknown" ><arg fmt="%s" index="1">&quot;/home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/bbfifo_16x8.vhd&quot; line 215:</arg> <arg fmt="%s" index="2">attribute on instance</arg> &lt;<arg fmt="%s" index="3">INIT</arg>&gt; overrides <arg fmt="%s" index="4">generic/parameter on component</arg>. It is possible that simulator will not take this attribute into account.
+</msg>
+
+<msg type="warning" file="Xst" num="2591" delta="unknown" ><arg fmt="%s" index="1">&quot;/home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/bbfifo_16x8.vhd&quot; line 226:</arg> <arg fmt="%s" index="2">attribute on instance</arg> &lt;<arg fmt="%s" index="3">INIT</arg>&gt; overrides <arg fmt="%s" index="4">generic/parameter on component</arg>. It is possible that simulator will not take this attribute into account.
+</msg>
+
+<msg type="warning" file="Xst" num="2591" delta="unknown" ><arg fmt="%s" index="1">&quot;/home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/bbfifo_16x8.vhd&quot; line 239:</arg> <arg fmt="%s" index="2">attribute on instance</arg> &lt;<arg fmt="%s" index="3">INIT</arg>&gt; overrides <arg fmt="%s" index="4">generic/parameter on component</arg>. It is possible that simulator will not take this attribute into account.
+</msg>
+
+<msg type="warning" file="Xst" num="2591" delta="unknown" ><arg fmt="%s" index="1">&quot;/home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/kcuart_rx.vhd&quot; line 141:</arg> <arg fmt="%s" index="2">attribute on instance</arg> &lt;<arg fmt="%s" index="3">INIT</arg>&gt; overrides <arg fmt="%s" index="4">generic/parameter on component</arg>. It is possible that simulator will not take this attribute into account.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="unknown" >&quot;<arg fmt="%s" index="1">/home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/Top_ejemplo.vhd</arg>&quot; line <arg fmt="%d" index="2">79</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">buffer_full</arg>&apos; of component &apos;<arg fmt="%s" index="4">uart_rx</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="unknown" >&quot;<arg fmt="%s" index="1">/home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/Top_ejemplo.vhd</arg>&quot; line <arg fmt="%d" index="2">79</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">buffer_half_full</arg>&apos; of component &apos;<arg fmt="%s" index="4">uart_rx</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="819" delta="unknown" >&quot;<arg fmt="%s" index="1">/home/jose/Dropbox/Cursos_posgrado/Cursos_Rosario/FPGA/Practicas/ArchivosClaseUart_TC2014/reloj_4800.vhd</arg>&quot; line <arg fmt="%d" index="2">38</arg>: The following signals are missing in the process sensitivity list:
+<arg fmt="%s" index="3">rst</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="unknown" >Signal &lt;<arg fmt="%s" index="1">Dato_out_s</arg>&gt; is never used or assigned.
+</msg>
+
+</messages>
+

@@ -1,0 +1,8 @@
+EN mef_control NULL /home/jose/Documentos/Projects_ISE_9_2/tp3_modif/MEF_control.vhd sub00/vhpl02 1423974268
+EN sistema NULL /home/jose/Documentos/Projects_ISE_9_2/tp3_modif/sistema.vhd sub00/vhpl00 1423974274
+AR sistema behavioral /home/jose/Documentos/Projects_ISE_9_2/tp3_modif/sistema.vhd sub00/vhpl01 1423974275
+AR registro behavioral /home/jose/Documentos/Projects_ISE_9_2/tp3_modif/Registro.vhd sub00/vhpl05 1423974271
+EN contador NULL /home/jose/Documentos/Projects_ISE_9_2/tp3_modif/Contador.vhd sub00/vhpl06 1423974272
+AR contador behavioral /home/jose/Documentos/Projects_ISE_9_2/tp3_modif/Contador.vhd sub00/vhpl07 1423974273
+AR mef_control behavioral /home/jose/Documentos/Projects_ISE_9_2/tp3_modif/MEF_control.vhd sub00/vhpl03 1423974269
+EN registro NULL /home/jose/Documentos/Projects_ISE_9_2/tp3_modif/Registro.vhd sub00/vhpl04 1423974270

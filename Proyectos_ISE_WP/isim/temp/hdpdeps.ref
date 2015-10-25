@@ -1,0 +1,17 @@
+V3 7
+FL /home/jose/Documentos/Projects_ISE_9_2/Proyectos_ISE_WP/compuertita.vhd 2015/01/31.11:23:37 J.36
+EN isim_temp/compuertita 1422714572 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/Proyectos_ISE_WP/compuertita.vhd \
+      PB ieee/std_logic_1164 1179176234 PB ieee/std_logic_arith 1179176236 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176242
+AR isim_temp/compuertita/Behavioral 1422714573 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/Proyectos_ISE_WP/compuertita.vhd \
+      EN isim_temp/compuertita 1422714572
+FL /home/jose/Documentos/Projects_ISE_9_2/Proyectos_ISE_WP/simulacion.vhd 2015/01/31.11:24:07 J.36
+EN isim_temp/simulacion_vhd 1422714355 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/Proyectos_ISE_WP/simulacion.vhd \
+      PB ieee/std_logic_1164 1179176234 PB ieee/STD_LOGIC_UNSIGNED 1179176242 \
+      PB ieee/NUMERIC_STD 1179176248
+AR isim_temp/simulacion_vhd/behavior 1422714356 \
+      FL /home/jose/Documentos/Projects_ISE_9_2/Proyectos_ISE_WP/simulacion.vhd \
+      EN isim_temp/simulacion_vhd 1422714355 CP compuertita
